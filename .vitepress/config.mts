@@ -25,6 +25,7 @@ export default defineConfig({
           { text: 'Newsletter', link: 'https://docs.hypercore.one/newsletter'},
           { text: 'SDLC SIG', link: 'https://docs.hypercore.one/sig-sdlc'},
           { text: 'Community SIG', link: 'https://docs.hypercore.one/sig-community'},
+          { text: 'HyperQube SIG', link: 'https://docs.hypercore.one/sig-hyperqube'},
           { text: 'OP SIG', link: 'https://docs.hypercore.one/sig-op'},
           { text: 'Syrius SIG', link: 'https://docs.hypercore.one/sig-syrius'},
           { text: 'Liquidity SIG', link: 'https://docs.hypercore.one/sig-liquidity'},
