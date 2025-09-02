@@ -1,0 +1,26 @@
+{
+  "name": "hypercore-one.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypercore-one/hypercore-one.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/hypercore-one/hypercore-one.github.io/issues"
+  },
+  "homepage": "https://github.com/hypercore-one/hypercore-one.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

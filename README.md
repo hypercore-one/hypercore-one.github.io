@@ -1,1 +1,1 @@
-# hypercore-one.github.io
+# HyperCore One
